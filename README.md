@@ -8,7 +8,7 @@ I build small, polished apps. Here are two:
 
 A tiny macOS menu-bar app: hold **⌘** and move the mouse to paint a GitHub-style trail of pixel squares. Handy for pointing at things during screen shares and code reviews. It's also open-source!
 
-<img src="https://raw.githubusercontent.com/Gidrono/PeilTrail/main/docs/demo.gif" alt="PeilTrail demo: holding Command and moving the mouse leaves a fading trail of colorful squares" width="600">
+<img src="https://raw.githubusercontent.com/Gidrono/PeilTrail/main/docs/demo.gif?v=2" alt="PeilTrail demo: holding Command and moving the mouse leaves a fading trail of colorful squares" width="600">
 
 ```bash
 brew install --cask gidrono/tap/peiltrail
