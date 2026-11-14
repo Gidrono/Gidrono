@@ -1,4 +1,4 @@
-### Hi, I'm Gidi 👋
+### Hi.
 
 I build small, polished apps. Here are two:
 
